@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **My recommender model, I'm looking for more datasets or improvisations to the model**
 
-- 📫 How to reach me **jupitoorakaushik07@gmail.com**
+- 📫 How to reach me **jupitoorakaushik@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
